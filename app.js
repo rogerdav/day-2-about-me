@@ -50,7 +50,7 @@ console.log('life changes',lifechanges);
 lifechanges = lifechanges.toLowerCase();
 
 if (lifechanges === 'y' || lifechanges === 'yes') {
-  alert('Hell yes he is, hopefully it work out well.');
+  alert('Hell yes he is, hopefully it works out well.');
 } else if (lifechanges === 'n' || lifechanges === 'no') {
   alert('Sorry that you don\'t think so');
 } else {

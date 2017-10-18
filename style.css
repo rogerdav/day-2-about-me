@@ -2,7 +2,7 @@
 header {
   background: linear-gradient(#f3d27e,#fff);
   padding: 30px;
-  border: 10px;
+  border: 5px;
   border-color: #000;
   border-style: groove;
 }
@@ -11,7 +11,7 @@ main {
   background: linear-gradient(#fff,#f3d27e);
   color: #c01010;
   padding: 30px;
-  border: 10px;
+  border: 5px;
   border-style: solid;
   border-color: #000;
 
